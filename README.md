@@ -19,9 +19,18 @@ This project is a human facial emotion detection system powered by a deep learni
 
 # 🗂️ Dataset
 
-The model is trained using a facial emotion recognition dataset containing images of various human emotions, including **Happy, Sad, Angry, Fear, Surprise, Disgust,** and **Neutral**.
+This project uses the **FER2013 (Facial Expression Recognition 2013)** dataset, a widely used benchmark for facial emotion recognition. The dataset consists of **35,887 grayscale facial images** with a resolution of **48×48 pixels**, categorized into seven emotion classes:
 
-> Replace this section with the dataset link you used (e.g., FER2013, CK+, RAF-DB, or another facial emotion dataset).
+* 😠 Angry
+* 🤢 Disgust
+* 😨 Fear
+* 😊 Happy
+* 😢 Sad
+* 😲 Surprise
+* 😐 Neutral
+
+The FER2013 dataset is publicly available on Kaggle:
+https://www.kaggle.com/datasets/msambare/fer2013
 
 ## 📁 Project Structure
 
